@@ -1,0 +1,13 @@
+button{
+    cursor: pointer;
+    font-size: 5vw;
+    border: 1.5vw;
+    padding: 8% 4%;
+    border-radius: 50%;
+    margin-top: 5vw;
+    margin: 5vw;
+    color: rgb(243, 234, 198);
+    background: #01344F;
+}
+
+ 
